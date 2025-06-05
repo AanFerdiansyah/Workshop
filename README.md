@@ -26,6 +26,7 @@ Hydorlic:720
 Nitro 1:1200
 Nitro 2:1800
 Nitro 3:3000
+Neon:3500
 
 >TUNE KENDARAAN<
 
